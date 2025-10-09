@@ -7,5 +7,7 @@ namespace GitTest
         int a;
         int b; int c;
 
+        int num;
+
     }
 }
