@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hihi4\\OneDrive\\\uBC14\uD0D5\uD654~1-DESKTOP-291ON6R-1811902\\GitTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D8B50E7-9FBE-48BB-8718-2072EFE4B8A5}|GitTest\\GitTest.csproj|c:\\users\\hihi4\\onedrive\\\uBC14\uD0D5\uD654~1-desktop-291on6r-1811902\\gittest\\gittest\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8B50E7-9FBE-48BB-8718-2072EFE4B8A5}|GitTest\\GitTest.csproj|solutionrelative:gittest\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D8B50E7-9FBE-48BB-8718-2072EFE4B8A5}|GitTest\\GitTest.csproj|c:\\users\\hihi4\\onedrive\\\uBC14\uD0D5\uD654~1-desktop-291on6r-1811902\\gittest\\gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D8B50E7-9FBE-48BB-8718-2072EFE4B8A5}|GitTest\\GitTest.csproj|solutionrelative:gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\hihi4\\OneDrive\\\uBC14\uD0D5\uD654~1-DESKTOP-291ON6R-1811902\\GitTest\\GitTest\\Unit.cs",
+              "RelativeDocumentMoniker": "GitTest\\Unit.cs",
+              "ToolTip": "C:\\Users\\hihi4\\OneDrive\\\uBC14\uD0D5\uD654~1-DESKTOP-291ON6R-1811902\\GitTest\\GitTest\\Unit.cs",
+              "RelativeToolTip": "GitTest\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:30:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hihi4\\OneDrive\\\uBC14\uD0D5\uD654~1-DESKTOP-291ON6R-1811902\\GitTest\\GitTest\\Program.cs",
               "RelativeDocumentMoniker": "GitTest\\Program.cs",
               "ToolTip": "C:\\Users\\hihi4\\OneDrive\\\uBC14\uD0D5\uD654~1-DESKTOP-291ON6R-1811902\\GitTest\\GitTest\\Program.cs",
               "RelativeToolTip": "GitTest\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T13:26:56.356Z",
               "EditorCaption": ""
